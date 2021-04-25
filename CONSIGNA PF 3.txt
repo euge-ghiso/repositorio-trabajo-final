@@ -1,0 +1,16 @@
+Estructura avanzada de la web
+>>Objetivos generales:
+Realizar una estructura del HTML prolija, limpia, fácil de leer y que no tenga errores en sus
+ atributos o en sus valores.
+>>Objetivos específicos:
+Agregar elementos HTML según la necesidad de armar contenedores o elementos web determinados, 
+en base al framework elegido y la documentación del mismo. 
+Agregar transformaciones, animaciones y/o transiciones para otorgarle dinamismo a la web
+ en elementos que tengan interacción con el usuario.
+>>Se debe entregar:
+Maquetado de la web: las estructuras maquetan a la web en base al framework elegido, 
+haciendo usos de clases utilitarias para armar grillas, elementos web y estilos propios del
+ framework, además del HTML de contenido.
+Páginas: todas las páginas tienen el contenido estructurado y el estilo linkeado. 
+También tiene que tener agregadas las diferentes librerías de Javascript y 
+CSS pertinentes al framework.
